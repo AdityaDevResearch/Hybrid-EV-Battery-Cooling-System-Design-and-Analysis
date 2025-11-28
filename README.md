@@ -1,0 +1,2 @@
+# Hybrid-EV-Battery-Cooling-System-Design-and-Analysis
+Hybrid PCM–water cooling for EV battery packs: integrates RT44 paraffin with a serpentine liquid-cooling layout (Tesla-inspired). ANSYS + SolidWorks simulations and a small prototype show reduced peak cell temperatures, improved uniformity, enhanced safety in hot climates, and lower manufacturing cost and is ideal for Indian summer conditions.
