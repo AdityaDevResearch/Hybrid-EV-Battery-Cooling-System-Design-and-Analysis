@@ -104,13 +104,13 @@ RT44 PCM was selected for its melting range (41–44°C), high latent heat capac
 ## Cost Analysis
 
 ### Tesla-Style Liquid Cooling (Reference)
-- ₹1.25–1.70 lakh per module.
+- ₹1.25–1.50 lakh per module.
 - Requires precision-machined aluminium ribbons and high-pressure pumps.
 
 ### Proposed Hybrid PCM–Liquid Cooling
-- ₹30,000–45,000 per module.
+- ₹50,000–70,000 per module.
 - Uses low-cost PCM and simple copper micro-tube channel.
-- Reduces manufacturing cost by approximately 65–75%.
+- Reduces manufacturing cost by approximately 55–65%.
 
 ---
 
