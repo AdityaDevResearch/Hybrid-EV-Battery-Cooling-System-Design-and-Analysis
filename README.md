@@ -1,5 +1,5 @@
 # Hybrid PCM–Liquid Cooling System for EV Battery Packs
-### Computational and Experimental Study using SolidWorks, ANSYS Fluent, and Physical Prototyping
+### Computational and Experimental Study using SolidWorks 2025, ANSYS Fluent Academic 2024, and Physical Prototyping
 
 ## Overview
 This project presents the design, simulation, and validation of a hybrid battery thermal management system integrating Phase Change Material (PCM) with serpentine liquid cooling for cylindrical Li-ion battery modules. The work addresses thermal challenges in high-temperature regions, particularly Indian climates where ambient temperatures exceed 45°C.
